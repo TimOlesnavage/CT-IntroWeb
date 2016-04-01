@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Title</title>
+</head>
+<body>
+
+  <h1>Tim Olesnavage</h1>
+
+    <p>Hey, check me out!</p>
+
+    <img src="https://pbs.twimg.com/profile_images/378800000539618996/514da787ecdc3aa5f11eb0a46b032ebd_400x400.jpeg" alt="MDN" />
+
+  <h2>About Me</h2>
+
+    <p>I am a very <em>poor</em> web developer</p>
+
+    <p>I love <strong>HTML</strong> a Shitload</p>
+
+    <p>Click on the image for more about my shitty site</p>
+
+    <a href="http://blog.softwiredweb.com/cheap-web-design" target="_blank">
+      <img src="http://cdn2.hubspot.net/hub/210897/file-2073950255-jpg/images/bad-website-design.jpg" alt="MDN logo" />
+    </a>
+
+
+  <h3>Things I'm bad at</h3>
+
+  <ul>
+    <li>html</li>
+    <li>web development</li>
+    <li>
+      google calendar
+      <ul>
+        <li>setting it up</li>
+        <li>syncing it up</li>
+        <li>general usage</li>
+      </ul>
+    </li>
+   </ul>
+
+   <h4>My Web Development Career Plan (a step by step guide)</h4>
+
+    <ol>
+      <li>Take <em>6</em> week class</li>
+      <li>Take <strong>12 week</strong> class</li>
+      <li>Get a job</li>
+      <li>Retire comfortably aboard my yacht</li>
+    </ol>
+
+    <dl>
+      <dt>things to work on</dt>
+      <dd>html</dd>
+      <dd>css</dd>
+    </dl>
+
+</body>
+</html>
