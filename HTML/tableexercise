@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CTexercise</title>
+</head>
+<body>
+    <header>
+      <h1>Welcome to CodeTahoe</h1>
+    </header>
+    <table>
+      <caption>Weekly Schedule</caption>
+  <thead>
+        <tr>
+          <th></th>
+          <th>Monday</th>
+          <th>Tuesday</th>
+          <th>Wednesday</th>
+          <th>Thursday</th>
+          <th>Friday</th>
+        </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <th>9:30 AM</th>
+      <td rowspan="2">Lecture</td>
+      <td rowspan="2">Lecture</td>
+      <td rowspan="2">Lecture</td>
+      <td rowspan="2">Lecture</td>
+      <td rowspan="2">Lecture</td>
+    </tr>
+    <tr>
+      <th>10:00 AM</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th>10:30 AM</th>
+      <td rowspan="3">Lab</td>
+      <td rowspan="3">Lab</td>
+      <td rowspan="3">Lab</td>
+      <td rowspan="3">Lab</td>
+      <td rowspan="3">Lab</td>
+    </tr>
+    <tr>
+      <th>11:00 AM</th>
+      <td></td>
+      <th>11:30</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th>12:00 PM</th>
+      <td colspan="5" rowspan="2">Lunch</td>
+    </tr>
+    <tr>
+      <th>12:30 PM</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th>1:00 PM</th>
+      <td rowspan="3">Lab</td>
+      <td rowspan="3">Lab</td>
+      <td rowspan="3">Lab</td>
+      <td rowspan="3">Lab</td>
+      <td rowspan="3">Lab</td>
+    </tr>
+    <tr>
+      <th>1:30 PM</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th>2:00 PM</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th>2:30 PM</th>
+      <td rowspan="3">Lecture</td>
+      <td rowspan="3">Guest Speaker</td>
+      <td rowspan="3">Lecture</td>
+      <td rowspan="3">Activity</td>
+      <td rowspan="3">Lecture</td>
+    </tr>
+    <tr>
+      <th>3:00</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th>3:30 PM</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th>4:00 PM</th>
+      <td rowspan="3">Lab</td>
+      <td rowspan="3">Lab</td>
+      <td rowspan="3">Lab</td>
+      <td rowspan="3">Lab</td>
+      <td rowspan="3">Lab</td>
+    </tr>
+    <tr>
+      <th>4:30 PM</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th>5:00 PM</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th>5:30 PM</th>
+      <td colspan="5" rowspan="2">Code Review</td>
+    </tr>
+    <tr>
+      <th>6:00 PM</th>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+    <footer>
+      <nav>
+        <ul>
+          <li>Copyright 2016</li>
+          <li>Terms of Use</li>
+          <li>An Elevate Blue Company</li>
+        </ul>
+      </nav>
+    </footer>
+</body>
+</html>
